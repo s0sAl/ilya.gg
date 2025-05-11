@@ -1,0 +1,38 @@
+.header {
+    position: absolute;
+    top: 200px;
+    left: 114px;
+    width: 746px;
+    height: 333px;
+}
+
+.title {
+    font-size: 128px;
+    color: #000000;
+    line-height: 1.2;
+}
+
+.subtitle {
+    position: absolute;
+    top: 274px;
+    left: 79px;
+    font-size: 64px;
+    color: rgba(0, 0, 0, 0.54);
+    -webkit-text-stroke: 1px #000000;
+}
+
+.divider {
+    position: absolute;
+    top: 300px;
+    left: 650px;
+    font-size: 36px;
+    color: rgba(0, 0, 0, 0.69);
+}
+
+.buttons {
+    position: absolute;
+    top: 350px;
+    right: 100px;
+    display: flex;
+    gap: 30px;
+}
